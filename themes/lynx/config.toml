@@ -1,4 +1,4 @@
-baseURL = "http://ll-0013py.github.io/connect-with-me/"
+baseURL = "http://rayramy04.github.io/connect-with-me/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -18,11 +18,11 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { link = { href = "https://ray-globallife.com/", text = "My Website"} },
-    { twitter = "https://twitter.com/rayramy04" },
+    { twitter = "https://x.com/rayramy04" },
     { youtube = "https://www.youtube.com/channel/UC6ljdPxxc12O3BMZzHnJWHg/?sub_confirmation=1" },
     { note-sticky-regular = { href = "https://note.com/ll_0013py/", text = "note" } },
-    { github = "https://github.com/ll-0013py" },
-    { link = { href = "https://ll-0013py.github.io/portfolio", text = "Portfolio"} }
+    { github = "https://github.com/rayramy04" },
+    { link = { href = "https://rayramy04.github.io/portfolio", text = "Portfolio"} }
   ]
 
 

@@ -1,4 +1,4 @@
-module github.com/ll-0013py/connect-with-me
+module github.com/rayramy04/connect-with-me
 
 go 1.21
 

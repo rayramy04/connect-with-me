@@ -1,2 +1,24 @@
 public/
 resources/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Hugo build files
+.hugo_build.lock
+
+# Node modules (if using npm for theme development)
+node_modules/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
